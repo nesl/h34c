@@ -1,0 +1,109 @@
+AutoECO Report
+FILE-A: C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\ROOMBA\ARC_2BIT.MAX
+FILE-B: C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\H34MOTE\H34MOTE\H34MOTE.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint SM/C_0603
+Adding footprint NESL/TESTPOINT_0.040/SM
+Adding footprint BLKCON.100/RH/TM1SQS/W.350/3
+Adding footprint HITACHI/H34C
+Adding footprint DF9-51P-1V-FIXED
+Adding footprint XBOW/MICAX
+Adding package CAP_NP
+Adding package TEST_POINT
+Adding package HEADER_3
+Adding package HITACHI/H34C
+Adding package 51_PIN_CONNECTOR_4_ON_MOTE
+Adding package INDUCTOR
+Adding package 51_PIN_CONNECTOR_5_ON_MOTE
+Adding package T:\ORCAD_LIB\C_DISCRETE.OLB/CAP NP
+Adding component C3
+Adding component J10
+Adding component C4
+Adding component J6
+Adding component C5
+Adding component C7
+Adding component J8
+Adding component J4
+Adding component L1
+Adding component C6
+Adding component C9
+Adding component MOTE1
+Adding component J7
+Adding component C11
+Adding component C2
+Adding component J9
+Adding net RSTN
+Adding net PW2
+Adding net ADC5
+Adding net WR
+Adding net VSNSR
+Adding net ADC6
+Adding net ADC2
+Adding net ADC0
+Adding net PWM1B
+Adding net THRU2
+Adding net ADC3
+Adding net UART_RXD0
+Adding net INT3
+Adding net ADC1
+Adding net SPI_SCK
+Adding net PROG_MISO
+Adding net PW0
+Adding net ADC4
+Adding net THERM_PWR
+Adding net INT1
+Adding net LED2
+Adding net PW6
+Adding net AC-
+Adding net THRU3
+Adding net DQ
+Adding net PW5
+Adding net ALE
+Adding net BAT_MON
+Adding net PWM1A
+Adding net THRU1
+Adding net PW3
+Adding net ADC7
+Adding net INT2
+Adding net USART1_TXD
+Adding net LBO
+Adding net PW1
+Adding net LED1
+Adding net AC+
+Adding net USART1_RXD
+Adding net I2C_CLK
+Adding net RD
+Adding net INT0
+Adding net UART_TXD0
+Adding net LED3
+Adding net I2C_DATA
+Adding net STBYB
+Adding net PW4
+Adding net VCC
+Adding net USART1_CLK
+Adding net VREF
+Adding net PROG_MISI
+Adding net 0
+Adding net N514343
+Adding net ZEROG
+Adding net TOUT
+Adding net AVCC
+ERROR: Component U1 (with fp U1_U1) has no pin 12
+ERROR: Component U1 (with fp U1_U1) has no pin 1
+ERROR: Component U1 (with fp U1_U1) has no pin 18
+ERROR: Component U1 (with fp U1_U1) has no pin 5
+ERROR: Component U1 (with fp U1_U1) has no pin 15
+ERROR: Component U1 (with fp U1_U1) has no pin 20
+ERROR: Component U1 (with fp U1_U1) has no pin 19
+ERROR: Component U1 (with fp U1_U1) has no pin 17
+ERROR: Component U1 (with fp U1_U1) has no pin 16
+ERROR: Component U1 (with fp U1_U1) has no pin 2
+ERROR: Component U1 (with fp U1_U1) has no pin 11
+ERROR: Component U1 (with fp U1_U1) has no pin 13
+ERROR: Component U1 (with fp U1_U1) has no pin 14
+ERROR: Component U1 (with fp U1_U1) has no pin 10
+ERROR: Component U1 (with fp U1_U1) has no pin 3
+ERROR: Component U1 (with fp U1_U1) has no pin 4
+Deleting net DEFAULT
+*EOF*
+16 errors found
