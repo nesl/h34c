@@ -49,7 +49,7 @@
     (TRUE)
     (TRUE)
     (FALSE)
-    ( "TRUE"))
+    (TRUE))
   (Folder "Outputs"
     (File ".\h34mote.mnl"
       (Type "LAYOUT Netlist File"))
@@ -77,26 +77,26 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Documents and Settings\AnnaD\Desktop\H34Mote\H34MOTE\h34mote.dsn")
+         "C:\Documents and Settings\AnnaD\Desktop\H34C\trunk\h34mote.dsn")
       (Path "Design Resources"
-         "C:\Documents and Settings\AnnaD\Desktop\H34Mote\H34MOTE\h34mote.dsn"
+         "C:\Documents and Settings\AnnaD\Desktop\H34C\trunk\h34mote.dsn"
          "SCHEMATIC1")
-      (Path "Outputs"))
+      (Select "Design Resources"
+         "C:\Documents and Settings\AnnaD\Desktop\H34C\trunk\h34mote.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 160 857 -4 -23 0 227 0 599"))
+        (Placement "44 1 1 156 857 -4 -23 0 227 0 599"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -4 -30 233 1277 0 888")
-        (Scroll "515 409")
-        (Zoom "96")
+        (Placement "44 0 1 160 857 -1 -1 89 1145 77 675")
+        (Scroll "0 1238")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path
-         "C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\H34MOTE\H34MOTE\H34MOTE.DSN")
+      (Path "C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\H34C\TRUNK\H34MOTE.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1")))
   (MPSSessionName "AnnaD"))
