@@ -1,0 +1,26 @@
+AutoECO Report
+FILE-A: C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\H34MOTE\H34MOTE\COPY OF H34MOTE-12.MAX
+FILE-B: C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\H34MOTE\H34MOTE\H34MOTE5.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint PINARRAY_H34_8
+Adding package HEADER_2
+Adding package 8_HEADER
+Adding component J12
+Found footprint BLKCON.100/RH/TM1SQS/W.350/2 from PRT file for part HEADER_2, comp J12
+Adding component J11
+Adding J11.5 to net 0
+Adding J11.7 to net ADC2
+Adding J11.8 to net ADC3
+Adding J12.1 to net ADC7
+Adding J11.6 to net N514343
+Adding J11.3 to net STBYB
+Deleting J10.1 from net TOUT
+Adding J11.2 to net TOUT
+Adding J12.2 to net TOUT
+Adding J11.1 to net VCC
+Deleting J9.1 from net ZEROG
+Adding J11.4 to net ZEROG
+Deleting component J10
+Deleting component J9
+*EOF*
+No errors found
