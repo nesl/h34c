@@ -41,7 +41,7 @@
     (CompileFileAddedOrDeleted "x")
     (NoModify)
     (Netlist_TAB "3")
-    (LAYOUT_Netlist_File "H34MOTE2.MNL")
+    (LAYOUT_Netlist_File "H34MOTE5.MNL")
     (LAYOUT_PCB_Footprint "{PCB Footprint}")
     (TRUE)
     (LAYOUT_Units "0")
@@ -49,14 +49,26 @@
     (TRUE)
     (TRUE)
     (FALSE)
+    (TRUE)
+    (TRUE)
     (TRUE))
   (Folder "Outputs"
     (File ".\h34mote.mnl"
       (Type "LAYOUT Netlist File"))
     (File ".\h34mote2.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\h34mote3.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\h34mote4.mnl"
+      (Type "LAYOUT Netlist File"))
+    (File ".\h34mote5.mnl"
       (Type "LAYOUT Netlist File")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("HEADER 2"
+      (FullPartName "HEADER 2.Normal")
+      (LibraryName "\\CAMELOT\CADD_DB\ORCAD_LIB\C_CONNECTOR.OLB")
+      (DeviceIndex "0"))
     ("8 HEADER"
       (FullPartName "8 HEADER.Normal")
       (LibraryName "\\CAMELOT\CADD_DB\ORCAD_LIB\C_CONNECTOR.OLB")
@@ -76,12 +88,23 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Select "Design Resources"
-         "C:\Documents and Settings\AnnaD\Desktop\H34C\trunk\h34mote.dsn"))
+      (Path "Design Resources" "Library")
+      (Path "Outputs"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 1 1 156 857 -4 -23 0 227 0 599"))
-      (Tab 0)))
+        (Placement "44 0 1 160 857 -4 -23 0 227 0 599"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -4 -30 44 1100 58 656")
+        (Scroll "27 364")
+        (Zoom "112")
+        (Occurrence "/"))
+      (Path
+         "C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\H34MOTE\H34MOTE\H34MOTE.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
   (MPSSessionName "AnnaD"))
