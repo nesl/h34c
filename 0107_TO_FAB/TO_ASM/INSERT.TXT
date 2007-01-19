@@ -1,0 +1,28 @@
+*****************************************************************************************
+*                                                                                       *
+* INSERTION LIST REPORT                                                                 *
+*                                                                                       *
+* C:\DOCUMENTS AND SETTINGS\ANNAD\DESKTOP\H34C\TRUNK\0107_TO_FAB\ENG_DWG\H34MOTE16.MAX  *
+* Thu Jan 18 21:34:30 2007                                                              *
+*                                                                                       *
+*****************************************************************************************
+
+REF DES    VALUE            FOOTPRINT                      XCOORD       YCOORD       ROTATION BOARDSIDE    
+-----------------------------------------------------------------------------------------------------------
+C2         0.047uF          SM/C_0603                       1319.00 m    673.00 m    0        TOP                       
+C3         0.047uF          SM/C_0603                       1342.00 m    596.00 m    0        TOP                       
+C4         0.047uF          SM/C_0603                       1190.00 m    701.00 m    180      TOP                       
+C5         0.01uF           SM/C_0603                       1319.00 m    516.00 m    0        TOP                       
+C6         0.1uF            SM/C_0603                       1145.00 m    428.00 m    180      TOP                       
+C7         0.01uF           SM/C_0603                       992.00 m     590.00 m    180      TOP                       
+C9         0.1uF            SM/C_0603                       1003.00 m    673.00 m    0        TOP                       
+C11        0.1uF            SM/C_0603                       1561.00 m    368.00 m    0        BOTTOM                    
+J4         Mica2 HDR (to .. DF9-51P-1V-FIXED                1190.88 m    157.45 m    0        TOP                       
+J6         Vref SWITCH      BLKCON.100/RH/TM1SQS/W.350/3    1700.00 m    900.00 m    0        TOP                       
+J7         AOX SWITCH       BLKCON.100/RH/TM1SQS/W.350/3    1200.00 m    900.00 m    0        TOP                       
+J8         STBYB SWITCH     BLKCON.100/RH/TM1SQS/W.350/3    700.00 m     900.00 m    0        TOP                       
+J11        8 HEADER         PINARRAY_H34_8                  2123.00 m    775.00 m    90       TOP                       
+J12        HEADER 2         BLKCON.100/RH/TM1SQS/W.350/2    640.00 m     521.00 m    90       TOP                       
+L1         2.5K@100MHz      SM/C_0603                       1004.00 m    512.00 m    180      TOP                       
+MOTE1      Mica2 Sensor  .. XBOW/MICAX                      1123.82 m    575.58 m    0        BOTTOM                    
+U1         H34C             HITACHI/H34C                    1167.05 m    586.52 m    90       TOP                       
